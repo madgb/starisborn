@@ -4,3 +4,22 @@
         transform: translateY(-50%);
     }
 }
+
+.modal-content {
+    position: relative
+}
+
+.border-10-light-red {
+    border-color: #855bf2 !important;
+}
+
+.banner-button {
+    position: absolute;
+    bottom: 15px;
+    right: 25px;
+    background: #fdfc00;
+    padding: 5px 25px;
+    border-radius: 20px;
+    color: black;
+    font-weight: 900;
+}
